@@ -18,7 +18,7 @@ So far I'm playing around with football manager datasets to implement in my game
 
 You can check out some of my works 
 
-Please see my [Football_analytics](https://github.com/ahnaf105091/Football-analytics) repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community.
+Please see my [Football_analytics](https://github.com/ahnaf105091/Football-analytics) repository for a collection of football analytics projects, data, and analysis that I have created.
 
 For more information:
 
