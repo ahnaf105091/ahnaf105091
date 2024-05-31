@@ -12,7 +12,7 @@ Learning to work with:
 ## About Me
 
 ---
-I'm a beginner data analyst testing the waters of data analytics, hoping to get into sports analytics one day. 
+I'm a student testing the waters of data analytics, hoping to get into sports analytics one day. 
 
 So far I'm playing around with football manager datasets to implement in my game saves.
 
