@@ -28,7 +28,12 @@ For more information:
 [ArtStation](https://www.artstation.com/ahnafchowdhury/followers)
 [Medium](https://medium.com/@ahnaf105091)
 
+Contact
+---
 
+I'm available through the following channels:
+
+[X](https://x.com/ahnaf105091)
 
 
 
